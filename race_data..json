@@ -1,0 +1,25 @@
+{
+    "projects": {
+        "Project1": {
+            "race": {
+                "name": "Project 1 Construction",
+                "spark_hours": 45000.0,
+                "upx_rate": 4.0,
+                "reward_pool": 180000.0
+            },
+            "crews": {
+                "sincere87": 7.5,
+                "jahreshaud": 16.0
+            }
+        },
+        "Project2": {
+            "race": {
+                "name": "TBD",
+                "spark_hours": 0.0,
+                "upx_rate": 0.0,
+                "reward_pool": 0.0
+            },
+            "crews": {}
+        }
+    }
+}
