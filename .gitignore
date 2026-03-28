@@ -1,0 +1,10 @@
+# Credentials
+.env
+token.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data
+race_data.json
